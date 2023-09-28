@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Blip</string>
+    <string name="add_image">Add Image</string>
+    <string name="select_user">Select user</string>
+    <string name="type_a_message">Type a message</string>
+</resources>
